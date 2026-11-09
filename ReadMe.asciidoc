@@ -5,6 +5,3 @@ image::Banner.png[]
 
 [preface]
 == 简介 Introduction
-范式
-
-== 结构 Structure
